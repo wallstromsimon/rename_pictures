@@ -5,7 +5,6 @@ import os
 path = '/home/simonw/git/rename_pictures/pictures'
 years = os.listdir(path)
 years.sort()
-i = 1
 
 for year in years:
     yearPath = path + "/" + year
@@ -29,4 +28,3 @@ for year in years:
                 #os.rename(os.path.join(path, file), os.path.join(path, str(i)+'.jpg'))
             yearCounter = yearCounter + 1
 
-print("Steps: ", i)
