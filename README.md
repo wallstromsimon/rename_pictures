@@ -2,25 +2,16 @@
 
 Folder structure:
 
-Pictures
-|-Year
-|-|-Subfolder
-|-|-|-picture
-|-|-|-picture
-|-|-Subfolder
-|-|-|-picture
-|-|-|-picture
-|-Year
-|-|-Subfolder
-|-|-|-picture
-|-|-|-picture
-|-|-Subfolder
-|-|-|-picture
-|-|-|-picture
-|-Year
-|-|-Subfolder
-|-|-|-picture
-|-|-|-picture
-|-|-Subfolder
-|-|-|-picture
-|-|-|-picture
+Pictures  
++-- Year  
+|    +-- Subfolder (like Jan, Feb)  
+|    |   +-- picture  
+|    |   +-- picture  
++-- Year  
+|    +-- Subfolder  
+|    |   +-- picture  
+|    |   +-- picture  
++-- Year  
+|    +-- Subfolder   
+|    |   +-- picture  
+|    |   +-- picture  
